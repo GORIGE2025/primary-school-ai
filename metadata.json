@@ -1,0 +1,6 @@
+{
+  "name": "AP Primary School Coding Portal",
+  "description": "A comprehensive 50-hour Class 5 coding curriculum, digital folder system, and Gemini-powered interactive AI tutor designed for government schools in Andhra Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
